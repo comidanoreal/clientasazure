@@ -9,6 +9,5 @@
     <PackageReference Include="Microsoft.Azure.Functions.Worker" Version="1.15.1" />
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-      <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Http" Version="3.3.0" />
   </ItemGroup>
 </Project>
