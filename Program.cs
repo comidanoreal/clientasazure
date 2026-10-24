@@ -15,7 +15,6 @@ var host = new HostBuilder()
     })
     .ConfigureServices(services =>
     {
-        services.AddSingleton<ShopifyService>();
         services.AddSingleton<ClientClassifierEngine>();
     })
     .ConfigureLogging(logging =>
